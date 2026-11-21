@@ -21,3 +21,8 @@ and upload them here.
 ```bash
 python day01_variables_data_types/basic_practice.py
 ```
+## Day 02 Topics Covered
+- String immutability
+- Indexing and slicing (positive, negative, step, reverse)
+- String methods: upper, lower, title, strip, replace, split, join, find, startswith, count
+- Small programs: palindrome, vowel counter, username generator, text report
